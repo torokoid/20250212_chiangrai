@@ -236,7 +236,7 @@ p.note { display: none; }
 <a href="20250212_047.JPG" target="_blank"><img src="20250212_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250212_048.JPG" target="_blank"><img src="20250212_048.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">対岸の仏像様に朝日が当たって輝いてます</span></h2>
+<h2><span class="yellow">対岸のタイの仏像様に朝日が当たって輝いてます</span></h2>
 <a href="20250212_049.JPG" target="_blank"><img src="20250212_049.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250212_050.JPG" target="_blank"><img src="20250212_050.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250212_051.JPG" target="_blank"><img src="20250212_051.JPG" alt="サンプル画像" width="900" /></a>
