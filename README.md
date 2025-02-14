@@ -151,7 +151,9 @@ p.note { display: none; }
 
     
 <h2><span class="yellow">托鉢の後はお経を唱えてひと段落(GoogleMapsのクチコミリンクです)</span></h2>
-https://maps.app.goo.gl/CmLaQTcieQnysHXD8<br>
+<a href="https://maps.app.goo.gl/CmLaQTcieQnysHXD8" target="_blank">GoogleMapsのクチコミリンクに飛びます</a>
+<br>
+<h2><span class="yellow">生画像はYouTubeに上がってます</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MgnskBAvviQ?si=AyI4QUlhyoZY285k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
 <a href="20250212_011.JPG" target="_blank"><img src="20250212_011.JPG" alt="サンプル画像" width="900" /></a>
@@ -223,7 +225,7 @@ https://maps.app.goo.gl/CmLaQTcieQnysHXD8<br>
 <h2><span class="yellow">お金をくれたおじさんは、市場の関係者の様です</span></h2>
 <a href="20250212_044.JPG" target="_blank"><img src="20250212_044.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">お弁当食べたお店の主はおばあちゃんの姪っ子</span></h2>
+<h2><span class="yellow">お弁当食べたお店の主はおばあちゃんの姪っ子、おばあちゃんは76歳</span></h2>
 <a href="20250212_045.JPG" target="_blank"><img src="20250212_045.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">別の親戚の新車で宿まで戻ります</span></h2>
