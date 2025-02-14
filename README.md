@@ -151,7 +151,7 @@ p.note { display: none; }
 
     
 <h2><span class="yellow">托鉢の後はお経を唱えてひと段落(GoogleMapsのクチコミリンクです)</span></h2>
-<a href="https://maps.app.goo.gl/CmLaQTcieQnysHXD8" target="_blank">GoogleMapsのクチコミリンクに飛びます</a>
+<h2><a href="https://maps.app.goo.gl/CmLaQTcieQnysHXD8" target="_blank">この文字クリックでGoogleMapsのクチコミリンクに飛びます</a></h2>
 <br>
 <h2><span class="yellow">生画像はYouTubeに上がってます</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MgnskBAvviQ?si=AyI4QUlhyoZY285k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
