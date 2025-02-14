@@ -290,7 +290,7 @@ p.note { display: none; }
 <a href="20250212_077.JPG" target="_blank"><img src="20250212_077.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250212_078.JPG" target="_blank"><img src="20250212_078.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">惣菜と缶ビール並べてパチリ</span></h2>
+<h2><span class="yellow">最後はお惣菜と缶ビール並べてパチリ</span></h2>
 <a href="20250212_079.JPG" target="_blank"><img src="20250212_079.JPG" alt="サンプル画像" width="900" /></a>
     
 
