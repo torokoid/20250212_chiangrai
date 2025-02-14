@@ -149,12 +149,13 @@ p.note { display: none; }
 <h2><span class="yellow">僧侶が総出で寄付を募ります（托鉢）</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BmvtRxRUEmc?si=3lkAp79Uxw7RP_XR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
+<h2><span class="yellow">托鉢の後はお経を唱えてひと段落<br>托鉢の後のお経の動画</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MgnskBAvviQ?si=AyI4QUlhyoZY285k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
-<h2><span class="yellow">托鉢の後はお経を唱えてひと段落</span></h2>
+
 <h2><a href="https://www.google.com/maps/place/ワット+ケーオ+ポーン+サワンタナーラーム/@20.2766316,100.4136245,12.35z/data=!4m15!1m8!3m7!1s0x30d63b229653c67f:0x7048d4bd69e593e2!2z44Ov44OD44OIIOOCseODvOOCqiDjg53jg7zjg7Mg44K144Ov44Oz44K_44OK44O844Op44O844Og!8m2!3d20.2680317!4d100.4180766!10e5!16s%2Fg%2F11f15lvdcg!3m5!1s0x30d63b229653c67f:0x7048d4bd69e593e2!8m2!3d20.2680317!4d100.4180766!16s%2Fg%2F11f15lvdcg!5m1!1e2?authuser=0&entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoJLDEwMjExMjMzSAFQAw%3D%3D" target="_blank">この文字クリックでGoogleMapsに飛びます</a></h2>
 <br>
-<h2><span class="yellow">托鉢の後のお経の動画</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MgnskBAvviQ?si=AyI4QUlhyoZY285k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
     
 <a href="20250212_011.JPG" target="_blank"><img src="20250212_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250212_012.JPG" target="_blank"><img src="20250212_012.JPG" alt="サンプル画像" width="900" /></a>
@@ -162,7 +163,7 @@ p.note { display: none; }
 <a href="20250212_014.JPG" target="_blank"><img src="20250212_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250212_015.JPG" target="_blank"><img src="20250212_015.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">イベントの撮影担当、IT系僧侶</span></h2>
+<h2><span class="yellow">イベントの撮影担当、IT担当僧侶</span></h2>
 <a href="20250212_016.JPG" target="_blank"><img src="20250212_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250212_017.JPG" target="_blank"><img src="20250212_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250212_018.JPG" target="_blank"><img src="20250212_018.JPG" alt="サンプル画像" width="900" /></a>
