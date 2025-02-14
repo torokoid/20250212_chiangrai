@@ -213,7 +213,7 @@ p.note { display: none; }
 <h2><span class="yellow">お掃除も始まりました</span></h2>
 <a href="20250212_039.JPG" target="_blank"><img src="20250212_039.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">掃き掃除と拭き掃除は別分担</span></h2>
+<h2><span class="yellow">掃き掃除と拭き掃除は別担当</span></h2>
 <a href="20250212_040.JPG" target="_blank"><img src="20250212_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250212_041.JPG" target="_blank"><img src="20250212_041.JPG" alt="サンプル画像" width="900" /></a>
     
