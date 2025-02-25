@@ -286,7 +286,7 @@ p.note { display: none; }
 <h2><span class="yellow">宵の明星「金星」がタイ側に沈みます</span></h2>
 <a href="20250212_076.JPG" target="_blank"><img src="20250212_076.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">3人分のビールと食事でラオス通過の276,000キープ、日本円で約2,000円弱</span></h2>
+<h2><span class="yellow">3人分のビールと食事でラオス通貨の276,000キープ、日本円で約2,000円弱</span></h2>
 <a href="20250212_077.JPG" target="_blank"><img src="20250212_077.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250212_078.JPG" target="_blank"><img src="20250212_078.JPG" alt="サンプル画像" width="900" /></a>
     
